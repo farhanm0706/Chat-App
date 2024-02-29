@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.2.0",
+    "nodemon": "^3.1.0",
+    "socket.io": "^4.7.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "This is chat app using node js web sockets and UI",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
+}
